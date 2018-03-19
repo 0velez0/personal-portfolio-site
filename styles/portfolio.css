@@ -1,0 +1,12 @@
+* {
+  border-radius: 5px;
+  padding: 2px;
+  background-color: #eeffff;
+  font-family: 'VT323', monospace;
+}
+
+body {
+  display: flex;
+  flex-wrap: wrap;
+
+}
